@@ -16,4 +16,6 @@ At first, we cleaned our millions web data provided from Volvo based on differen
 - **Jaehuk Kim:** kimj98 @ berkeley edu
 
 # License
+[![license](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/MingyangLou/DataXMindReader/blob/main/LICENSE)
+
 This project is licensed under the terms of [MIT License](https://github.com/MingyangLou/DataXMindReader/blob/main/LICENSE)
