@@ -1,4 +1,6 @@
 # MindReader Data-X
+
+# The Problem
 With the goal of better understanding visitor intent on Volvo’s website, six UC Berkeley students created MindReader, a sophisticated mathematical model that defines users’ intentions and types of users. Even though there are some Web Analytics Tools online, ther are no realiable one specifically focusing on implicit intent. MindReader, as the creative solution, uses visitor behavior data to analyze the purchasing intentions behind activities on the website. It innovates in the space of web analytics by applying state-of-the-art machine learning model, Hidden Markov Model, to traditional data science. MindReader identifies the hidden intents of visitors and clusters similar users together to categorize general segements of website visitors. With MindReader, the website managers can better understand their web-visitors and now have the power to personalize their website by targeting on specific user segment to increase overall conversion rates. 
 
 # Methods
